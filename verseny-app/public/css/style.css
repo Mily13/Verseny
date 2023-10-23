@@ -1,0 +1,38 @@
+html, body {
+    background-color: #e2e2e2;
+    font-family: Candara;
+}
+.headertitle{
+    text-shadow: 2px 2px 5px black;
+}
+.formlabel{
+    font-size: 20px;
+    text-shadow: 1px 1px 2px black;
+}
+.formbutton{
+    font-size: 20px;
+    text-shadow: 1px 1px 2px black;
+}
+.table{
+    border-width: 4px;
+    border-color: black;
+}
+.title{
+    text-shadow: 2px 2px 5px darkgray;
+}
+#header, #header2, #header3{
+    color: white;
+    background-image: url("../olympics2.jpg");
+    background-repeat: no-repeat;
+}
+.cardtext{
+    font-size: 20px;
+}
+.cardtitle{
+    font-size: 25px;
+    font-weight: bold;
+}
+.cardsecondary{
+    font-size: 18px;
+    font-style: italic;
+}
