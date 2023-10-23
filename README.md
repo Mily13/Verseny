@@ -15,6 +15,9 @@ DB_DATABASE=versenydb
 DB_USERNAME=root
 DB_PASSWORD=
 ```
+XAMPP-pal való futtatáskor PhpMyAdmin-ban importálható az adatbázis a kapott 'versenydb.sql' fájból.
+
+
 Futtatási követelmények:
 1) megfelelő PHP verzió 
 2) Composer
@@ -27,7 +30,6 @@ cd verseny-app
 composer install
 ```
 
-XAMPP-pal való futtatáskor PhpMyAdmin-ban importálható az adatbázis a kapott 'versenydb.sql' fájból.
 
 
 
