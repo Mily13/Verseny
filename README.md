@@ -1,5 +1,5 @@
-# Mozaik-Verseny
-Mozaik-Verseny app V1.0
+# Verseny
+Verseny app V1.0
 
 A fejlesztés alatt XAMPP (Apache, MySQL) volt használva.
 A weboldal adatbázisként egy MySQL adatbázis lett létrehozva PhpMyAdmin-ban, aminek kiexportált változata megtalálható a projekt root-ban 'versenydb.sql' néven.
@@ -24,7 +24,7 @@ Futtatási követelmények:
 
 Repo klónozása és beüzemelés fejlesztői környezet termináljából:
 ```
-git clone https://github.com/Mily13/Mozaik-Verseny.git
+git clone https://github.com/Mily13/Verseny.git
 cd Verseny
 cd verseny-app
 composer install
